@@ -1,5 +1,5 @@
 # alzheimers
-This project attempts to create a model that accurately classifies alzheimers in MRI scans.
+This project attempts to explore the applications of different models in classifiying and predicting Alzheimer's.
 
 ## Datasets
 The first dataset contains cross-sectional MRI data of young, middle-agen, nondemented and demented older adults. A total of 416 subjects ages 18 to 96 underwent single-session MRI-scans. 100 of the subjects have a clinically diagnozed Alzheimer's. 
