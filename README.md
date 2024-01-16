@@ -2,7 +2,7 @@
 This project attempts to explore the applications of different models in classifying and predicting Alzheimer's.
 
 ## Datasets
-The first dataset contains cross-sectional MRI data of young, middle-agen, nondemented and demented older adults. A total of 416 subjects ages 18 to 96 underwent single-session MRI-scans. 100 of the subjects have a clinically diagnozed Alzheimer's. 
+The first dataset contains cross-sectional MRI data of young, middle-aged, nondemented and demented older adults. A total of 416 subjects ages 18 to 96 underwent single-session MRI-scans. 100 of the subjects have a clinically diagnozed Alzheimer's. 
 
 The second dataset contains longitudinal data of 150 adults ages 60 to 96 with and without diagnosed Alzheimer's. Each subject was scanned at least twice with 1 year between the scans. 64 of the subjects had been diagnozed with Alzheimer's at the time of their first visits. 
 
